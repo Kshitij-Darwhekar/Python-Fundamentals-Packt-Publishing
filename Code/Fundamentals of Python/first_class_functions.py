@@ -12,7 +12,7 @@
 # Output:
 # 5
 
-# We can assign a functuin to another function
+# We can assign a function to another function
 
 def before_and_after(func):
     print("Before")
