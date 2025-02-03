@@ -1,2 +1,2 @@
 
-The Complete Python Course : 
+The Complete Python Course on O'Reilly Platform: 
