@@ -1,6 +1,6 @@
 # Main Python File
 
-# List of movies stores using dictionary
+# List of movies stored using a list of dictionaries
 movies = [
     {
         "title": "The Shawshank Redemption",
