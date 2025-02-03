@@ -104,6 +104,7 @@ def remove_movie(title):
 def list_movies():
     for movie in movies:
         print(f"{movie['title']} ({movie['year']}) - {movie['rating']} stars, Directed by {movie['director']}, Genre: {movie['genre']}")
+        print()  # Print an empty line after each movie
         
 
 # Find a movie by title
